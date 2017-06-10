@@ -1,0 +1,6 @@
+framework module Pods_FIT3027_AssignmentUITests {
+  umbrella header "Pods-FIT3027_AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
